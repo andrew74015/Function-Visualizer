@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat
+*.fig
+*.mlapp
+*.mlappinstall
+
+# folders
+figures/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
